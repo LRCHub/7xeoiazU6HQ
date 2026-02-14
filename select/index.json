@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "無限さ",
+  "base_artist": "Lucky Kilimanjaro",
+  "createdAt": "2026-02-14T05:54:43.504974Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "無限さ",
+      "artist": "Lucky Kilimanjaro",
+      "has_synced": true,
+      "path": "select/01_無限さ_Lucky_Kilimanjaro.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "無限さ",
+      "artist": "Lucky Kilimanjaro",
+      "has_synced": false,
+      "path": "select/pl_01_無限さ_Lucky_Kilimanjaro.txt"
+    }
+  ]
+}
